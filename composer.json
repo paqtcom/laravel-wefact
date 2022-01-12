@@ -1,10 +1,10 @@
 {
-    "name": "lvdhoorn/laravel-wefact",
-    "description": "Wefact for Laravel 5.8/6.0",
+    "name": "paqtcom/laravel-wefact",
+    "description": "Wefact for Laravel 5.8 - 8.x",
     "keywords": ["wefact", "laravel"],
     "license": "MIT",
     "require": {
-        "php": "^7.2",
+        "php": "^7.4|^8.0",
         "laravel/framework": "^5.8|^6.0|^7.0|^8.0",
         "guzzlehttp/guzzle": "6.*|7.*"
     },
